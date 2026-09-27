@@ -8,21 +8,6 @@ Dungeon Quest is a small text-based RPG where the player explores different area
 
 This project is primarily a learning project for practising C#, object-oriented programming, and software development fundamentals.
 
-## World Map
-
-```text
-        🏰 Castle
-            │
-         🌲 Forest
-            │
-         🏠 Village
-            │
-         🕳️ Cave
-            │
-        👹 Dragon Lair
-
-```
-
 ## Planned Features
 
 - Character creation
